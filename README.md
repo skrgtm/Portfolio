@@ -1,2 +1,2 @@
 # Portfolio
-This is my ortfolio
+This is my Portfolio
